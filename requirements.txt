@@ -1,0 +1,12 @@
+uvicorn
+seaborn
+matplotlib
+scikit-learn
+numpy
+fastapi
+black
+ipykernel
+mock
+sqlalchemy
+pymongo
+PyMySQL
